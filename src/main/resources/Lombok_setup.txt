@@ -1,0 +1,1 @@
+J'ai voulu test le projet Lombok, tu dois juste faire un "java -jar lombok.jar" pour l'installer au besoin
